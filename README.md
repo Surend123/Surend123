@@ -45,9 +45,14 @@
   <a href="https://www.linkedin.com/in/surendra-kumar-yadav-54267a293/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/surendr6o2c/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210224031038/Capture4-300x174.PNG" alt="GeeksForGeeks" />
-  </a>
+ <a href="https://www.geeksforgeeks.org/user/surendr6o2c/" target="_blank">
+  <img 
+    src="https://media.geeksforgeeks.org/wp-content/uploads/20210224031038/Capture4-300x174.PNG" 
+    alt="GeeksForGeeks" 
+    style="width: 150px; height: auto;" 
+  />
+</a>
+
   <a href="https://www.hackerrank.com/profile/sky958447" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
