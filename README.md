@@ -49,7 +49,7 @@
   <img 
     src="https://media.geeksforgeeks.org/wp-content/uploads/20210224031038/Capture4-300x174.PNG" 
     alt="GeeksForGeeks" 
-    style="width: 150px; height: auto;" 
+    style="width: 90px; height: 20px;" 
   />
 </a>
 
